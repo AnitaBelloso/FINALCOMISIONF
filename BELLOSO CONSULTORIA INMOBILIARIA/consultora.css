@@ -1,0 +1,19 @@
+body{
+    background-image: url("fondosolidoverde.jpg");
+    background-size: 100%;
+}
+main{
+    text-align: center;
+    
+}
+aside{
+    text-align: center;
+}
+.textoequipo{
+    border: 1px solid black;
+    text-align: center;
+    padding:10px;
+}
+.p{
+    text-align: justify;
+}
